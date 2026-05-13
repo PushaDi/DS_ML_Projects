@@ -1,0 +1,9 @@
+# Telegram API Credentials
+API_ID=26086057
+API_HASH='b38a2ed34078cf550fe4a24a4e70396c'
+
+# Google Gemini API Key
+GEMINI_API_KEY=AIzaSyAcw-ZQLNdY7j7YdoDLqp8iNcou6lLkZt4
+
+# Имя сессии для Telethon (можно оставить как есть)
+SESSION_NAME=parse_session
